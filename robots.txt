@@ -1,0 +1,50 @@
+# Regenerative Farming Philippines
+
+User-agent: *
+Allow: /
+
+# Retrieval crawlers: these drive AI citations. MUST remain allowed.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# User-triggered fetchers (fire when a human asks the assistant to open a URL)
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Training crawlers: optional. Blocking these has no citation penalty.
+# Current decision: allow. Revisit if training-data use becomes a concern.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://regenerativefarmingphilippines.com/sitemap.xml
+
+# Paid guide: not for search indexing
+User-agent: *
+Disallow: /downloads/regenerative-method-field-guide.pdf

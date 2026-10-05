@@ -1,0 +1,35 @@
+# Regenerative Farming Philippines
+
+> A farming family from Calamba, Laguna, teaching the regenerative farming
+> method for tropical farms: soil health, compost and biofertilizers, cover
+> cropping, natural pest management, and season-aware planning. The family farm
+> is Viking Farms PH, three generations on the same land.
+
+## Core pages
+- [Home](https://regenerativefarmingphilippines.com/): the regenerative method, taught by a farming family.
+- [The Method (all ten modules)](https://regenerativefarmingphilippines.com/method/): the complete curriculum, module by module.
+- [What is regenerative agriculture](https://regenerativefarmingphilippines.com/method/why/): the working definition, principles, and how it differs from organic and permaculture.
+- [The course](https://regenerativefarmingphilippines.com/the-method/): the ten-module self-paced course.
+- [Our story](https://regenerativefarmingphilippines.com/our-story/): three generations on the same land in Calamba, Laguna.
+
+## Modules
+- [Soil regeneration](https://regenerativefarmingphilippines.com/method/soil/)
+- [Compost and biofertilizers](https://regenerativefarmingphilippines.com/method/compost/)
+- [Stop tilling](https://regenerativefarmingphilippines.com/method/tilling/)
+- [Cover crops](https://regenerativefarmingphilippines.com/method/cover/)
+- [Pests without poisons](https://regenerativefarmingphilippines.com/method/pests/)
+- [Water and seasons](https://regenerativefarmingphilippines.com/method/water/)
+- [Your first season](https://regenerativefarmingphilippines.com/method/first-season/)
+- [Measuring progress](https://regenerativefarmingphilippines.com/method/measure/)
+- [Making it pay](https://regenerativefarmingphilippines.com/method/making-it-pay/)
+
+## For farmers
+- [Who it's for (the three paths)](https://regenerativefarmingphilippines.com/who/)
+- [Why it matters](https://regenerativefarmingphilippines.com/who/curious/): benefits and honest costs.
+- [For beginners](https://regenerativefarmingphilippines.com/who/starter/): start small, start now.
+- [Certification and standards](https://regenerativefarmingphilippines.com/who/steward/): proving practice without greenwashing.
+- [Starter kit](https://regenerativefarmingphilippines.com/starter-kit/): being built now; contents to the waitlist first.
+
+## Notes
+- Google Search does not use this file. It exists for agent tooling and as a
+  cheap hedge, generated from the same page list as sitemap.xml.
