@@ -289,7 +289,11 @@
         journey: (fPractice && fPractice.value) || q.practice || '',
         place: (fPlace && fPlace.value.trim()) || q.place || '',
         interest: 'course',
-        page: window.location.pathname || '/'
+        page: window.location.pathname || '/',
+        /* Attribution: filled by utm_source on the landing URL (bio links, shares).
+           The Apps Script writes it once its Source column patch is applied; until
+           then this field is simply ignored server-side. */
+        source: (new URLSearchParams(window.location.search)).get('utm_source') || 'direct'
       };
       var payloadJson = JSON.stringify(payload);
 
