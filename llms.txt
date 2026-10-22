@@ -30,6 +30,10 @@
 - [Certification and standards](https://regenerativefarmingphilippines.com/who/steward/): proving practice without greenwashing.
 - [Starter kit](https://regenerativefarmingphilippines.com/starter-kit/): being built now; contents to the waitlist first.
 
+## Journal
+- [The journal (all field guides)](https://regenerativefarmingphilippines.com/journal/): field guides from the beds and paddocks, one a month.
+- [Regenerative gardening](https://regenerativefarmingphilippines.com/journal/regenerative-gardening/): the farm method scaled to a bed, a yard, or a handful of pots.
+
 ## Notes
 - Google Search does not use this file. It exists for agent tooling and as a
   cheap hedge, generated from the same page list as sitemap.xml.
