@@ -48,3 +48,4 @@ Sitemap: https://regenerativefarmingphilippines.com/sitemap.xml
 # Paid guide: not for search indexing
 User-agent: *
 Disallow: /downloads/regenerative-method-field-guide.pdf
+
