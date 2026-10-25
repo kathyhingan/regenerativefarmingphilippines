@@ -31,10 +31,11 @@
 - [Starter kit](https://regenerativefarmingphilippines.com/starter-kit/): being built now; contents to the waitlist first.
 
 ## Journal
-- [The journal (all field guides)](https://regenerativefarmingphilippines.com/journal/): field guides from the beds and paddocks, one a month.
+- [The journal (all field guides)](https://regenerativefarmingphilippines.com/journal/): field guides from the beds and paddocks.
 - [Regenerative gardening](https://regenerativefarmingphilippines.com/journal/regenerative-gardening/): the farm method scaled to a bed, a yard, or a handful of pots.
 - [Regenerative vs sustainable agriculture](https://regenerativefarmingphilippines.com/journal/regenerative-vs-sustainable/): the real difference between the two words, plus organic and biodynamic, settled by the shopping-list test.
 - [Integrated farming in the Philippines](https://regenerativefarmingphilippines.com/journal/integrated-farming/): crops, livestock, and fish trading inputs on one lot, with the loop map and the starter sequence.
+- [Composting in the Philippines](https://regenerativefarmingphilippines.com/journal/composting-philippines/): rice straw, manure, and crop waste turned into fertility instead of smoke, with the pile method that survives tropical rain.
 
 ## Notes
 - Google Search does not use this file. It exists for agent tooling and as a
