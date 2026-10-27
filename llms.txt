@@ -37,6 +37,7 @@
 - [Integrated farming in the Philippines](https://regenerativefarmingphilippines.com/journal/integrated-farming/): crops, livestock, and fish trading inputs on one lot, with the loop map and the starter sequence.
 - [Composting in the Philippines](https://regenerativefarmingphilippines.com/journal/composting-philippines/): rice straw, manure, and crop waste turned into fertility instead of smoke, with the pile method that survives tropical rain.
 - [Rice straw to biofertilizer](https://regenerativefarmingphilippines.com/journal/rice-straw-biofertilizer/): the three ferments a small farm runs from its own waste, pointed back at the straw, with the equipment list and the honest arithmetic.
+- [Reading the wet season](https://regenerativefarmingphilippines.com/journal/wet-season-planting/): when to plant, when to wait: the monsoon signs, the regional windows for rice and vegetables, and when waiting is the profitable move.
 
 ## Notes
 - Google Search does not use this file. It exists for agent tooling and as a
